@@ -32,3 +32,4 @@ Deep learning model โดยแบ่งออกเป็น 2 โมเดล
 2. models : ไฟล์ weights สำหรับ classification model และ keras model สำหรับ segmentation model
 3. src : ไฟล์โค้ดทั้งหมด โดยแบ่ง Classification.ipynb, Segmentation.ipynb, splitting.ipynb, webapp.ipynb  
 4. demos : การทดสอบโมเดลในสามระดับความยากได้แก่ ง่าย, กลาง, ยาก
+5. evaluations : ทดสอบโมเดลกับ test set แยกตามประเภทโมเดล
